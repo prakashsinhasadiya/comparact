@@ -1,0 +1,9 @@
+/* CSS for ProctorTrackXBlock */
+
+.proctortrack_block .count {
+    font-weight: bold;
+}
+
+.proctortrack_block p {
+    cursor: pointer;
+}
